@@ -1,4 +1,4 @@
-# Hi there, I'm Volodymyr Bondarchuk! 👋
+# 🏄 ImpLeax
 
 Junior Backend Developer (Python/Django) and Software Engineering Student at KPI.
 
@@ -93,11 +93,10 @@ Currently, I specialize in building **Telegram bots** and **creating websites**,
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImpLeax&show_icons=true&theme=radical&count_private=true" alt="ImpLeax's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImpLeax&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImpLeax&theme=radical" alt="GitHub Profile Details" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImpLeax&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ImpLeax&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
