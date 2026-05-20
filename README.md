@@ -6,7 +6,7 @@ Junior Backend Developer (Python/Django) and Software Engineering Student at KPI
   <a href="https://github.com/ImpLeax">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://t.me/volodymyr227">
+  <a href="https://t.me/impleax">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:vovabond011@gmail.com">
