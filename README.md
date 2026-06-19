@@ -99,7 +99,7 @@ I'm always open to discussing new projects or interesting opportunities.
 
 * **GitHub: [My Profile](https://github.com/ImpLeax)**
 * **Telegram:** @impleax
-* **Email: vovabond011@gmail.com**
+* **Email: bondarchukvolodymyr891@gmail.com**
 
 Language Proficiency:
 * Ukrainian: Native 
