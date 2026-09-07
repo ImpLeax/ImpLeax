@@ -10,7 +10,7 @@ Junior Backend Developer (Python/Django) and Software Engineering Student at KPI
 
 ## 🚀 About Me
 
-I am an ambitious 2nd-year student at Igor Sikorsky Kyiv Polytechnic Institute (KPI), majoring in Software Engineering. I have 2 years of non-commercial development experience using Python.
+I am an ambitious 3nd-year student at Igor Sikorsky Kyiv Polytechnic Institute (KPI), majoring in Software Engineering. I have 2 years of non-commercial development experience using Python.
 
 Currently, I specialize in building **Telegram bots** and **creating websites**, focusing on scalable server solutions, asynchronous programming, and application containerization. I have a deep understanding of architectural patterns, web security, and the full project deployment cycle.
 
